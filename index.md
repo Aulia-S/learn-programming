@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Learn Programming
+This repo contains my references in journey to become a good programmer. Hope this also help you to find sources to start your train.
 
-You can use the [editor on GitHub](https://github.com/Aulia-S/learn-programming/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Table of Contents
+- [Learn Programming](#learn-programming)
+  - [Table of Contents](#table-of-contents)
+  - [Youtube Tutorial](#youtube-tutorial)
+  - [Website](#website)
+    - [free](#free)
+    - [paid](#paid)
+  - [another resource](#another-resource)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Youtube Tutorial
+- [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg)
+- [WebStoreMaker](https://www.youtube.com/channel/UCPHLZvqIIxD9sLabzXHn1OQ)
+- [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
+- [BroIT](https://www.youtube.com/channel/UCQouIoJy6RBr9qG9YvMIZsQ)
 
-### Markdown
+## Website
+### free
+- [W3Schools](https://www.w3schools.com/)
+- [Petani Kode](https://www.petanikode)
+- [CSSBattle](https://cssbattle.dev/)
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [geeksforgeeks](https://www.geeksforgeeks.org/)
+### paid
+- [Progate](https://progate.com/)
+- [Dicoding](https://www.dicoding.com/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aulia-S/learn-programming/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## another resource
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books)

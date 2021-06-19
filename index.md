@@ -23,6 +23,8 @@ This repo contains my references in journey to become a good programmer. Hope th
 - [CSSBattle](https://cssbattle.dev/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [geeksforgeeks](https://www.geeksforgeeks.org/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [codewars](https://www.codewars.com/)
 
 ### paid
 - [Progate](https://progate.com/)

@@ -1,13 +1,12 @@
 This repo contains my references in journey to become a good programmer. Hope this also help you to find sources to start your train.
 
 # Table of Contents
-- [Learn Programming](#learn-programming)
-  - [Table of Contents](#table-of-contents)
-  - [Youtube Tutorial](#youtube-tutorial)
-  - [Website](#website)
-    - [free](#free)
-    - [paid](#paid)
-  - [another resource](#another-resource)
+- [Table of Contents](#table-of-contents)
+- [Youtube Tutorial](#youtube-tutorial)
+- [Website](#website)
+  - [free](#free)
+  - [paid](#paid)
+- [another resource](#another-resource)
 
 # Youtube Tutorial
 - [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg)

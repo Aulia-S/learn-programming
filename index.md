@@ -23,10 +23,13 @@ This repo contains my references in journey to become a good programmer. Hope th
 - [geeksforgeeks](https://www.geeksforgeeks.org/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [codewars](https://www.codewars.com/)
+- [Khan Academy](https://id.khanacademy.org/)
+- [Hacker Rank](https://www.hackerrank.com/dashboard)
 
 ## paid
 - [Progate](https://progate.com/)
 - [Dicoding](https://www.dicoding.com/)
+- [Udemy](https://www.udemy.com/)
 
 # another resource
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
